@@ -2,12 +2,19 @@ yearly-calendar
 ==============
 
 Use php to generate a yearly event planner.
+
 Default for current year.
+
 You can also change the year by parsing year.php?year=2020
+
 You can use Jquery to insert events for each td by id.
+
 The id format is td_[month]_[date]. For example, td_8_24 is for 24th August.
+
 Enjoy it!
 
-ÓÃPHPÉú³ÉÒ»¸öÈ«ÄêµÄÈÕÀú£¬Ä¬ÈÏÊÇ½ñÄê¡£µ«ÊÇ¿ÉÒÔ´«²ÎÊı year.php?year=2020
-¿ÉÒÔÓÃJquery¸ù¾İidÍùtdÀïÃæ²åÈëÊÂ¼ş¡£
-ID¸ñÊ½ÊÇ td_[month]_[date]. ±ÈÈçËµ td_8_24 ´ú±í8ÔÂ24ºÅ.
+ç”¨PHPç”Ÿæˆä¸€ä¸ªå…¨å¹´çš„æ—¥å†ï¼Œé»˜è®¤æ˜¯ä»Šå¹´ã€‚ä½†æ˜¯å¯ä»¥ä¼ å‚æ•° year.php?year=2020
+
+å¯ä»¥ç”¨Jqueryæ ¹æ®idå¾€tdé‡Œé¢æ’å…¥äº‹ä»¶ã€‚
+
+IDæ ¼å¼æ˜¯ td_[month]_[date]. æ¯”å¦‚è¯´ td_8_24 ä»£è¡¨8æœˆ24å·.
